@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## My Career Goals
 
-You can use the [editor on GitHub](https://github.com/pianoelle/pianoelle.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Worked with computer systems on business operations at Discovery Inc. Part of the job involved UAT on our XML Tool software.
 
 
 ### Articles

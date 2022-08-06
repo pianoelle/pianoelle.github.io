@@ -4,12 +4,6 @@ You can use the [editor on GitHub](https://github.com/pianoelle/pianoelle.github
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-
-### Articles
-
-- [Quality Analyst contributions to dedlin, an editor](editor.md)
-- [Business Analyst contributions to dedlin, an editor](features.md)
-
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for

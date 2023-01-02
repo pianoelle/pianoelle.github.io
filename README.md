@@ -4,7 +4,7 @@ Worked with computer systems on business operations at Discovery Inc. Part of th
 
 ## Mock Interview with ChatGPT
 
-- [Mock Interview](ad_interview.md)
+- [Mock Interview](ai_interview.md)
 
 ### Articles
 

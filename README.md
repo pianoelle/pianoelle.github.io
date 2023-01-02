@@ -2,6 +2,9 @@
 
 Worked with computer systems on business operations at Discovery Inc. Part of the job involved UAT on our XML Tool software.
 
+## Mock Interview with ChatGPT
+
+- [Mock Interview](ad_interview.md)
 
 ### Articles
 

@@ -17,3 +17,5 @@ Worked with computer systems on business operations at Discovery Inc. Part of th
 Contact me on [LinkedIn](https://www.linkedin.com/in/pia-teehan-1b11a799/)
 
 
+## Utilities
+[Markdown Cheat Sheet](cheat_sheet.md)
